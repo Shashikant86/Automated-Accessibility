@@ -1,0 +1,11 @@
+{
+  "version": "0.0.0",
+  "description": "pa11y nodeJS modules",
+  "dependencies": {
+    "pa11y" : "*",
+    "pa11y-reporter-rainbows": "*"
+  },
+
+  "author": "Shashikant Jagtap",
+  "license": "MIT"
+}
